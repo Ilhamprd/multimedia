@@ -48,3 +48,8 @@ footer a:hover {
         transform: none;
     }
 }
+
+footer p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
