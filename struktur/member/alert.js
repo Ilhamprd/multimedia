@@ -1,0 +1,1 @@
+alert('Temukan 4 orang yang tidak support wkwk');
